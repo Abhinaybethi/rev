@@ -9,5 +9,6 @@ class prime {
 
     public static void main(String[] args) {
         int num = 29;
+ master
     }
 }
